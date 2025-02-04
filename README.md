@@ -1,4 +1,4 @@
-# 📩 Spam Detection App
+# 💵 Salary Predict App
 
 A machine learning-based **Salary Predict App** using **Streamlit** and **and Machine Learning Libraries**. 
 
