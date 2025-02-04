@@ -69,6 +69,6 @@ Feel free to fork this project, make improvements, and submit a **pull request**
 ---
 
 ## 📬 Contact
-For any inquiries, contact **your_email@example.com** or visit the repository on [GitHub](https://github.com/mehdidinari/Email_Filter).
+For any inquiries, contact **treshlol202@gmail.com.com** or visit the repository on [GitHub](https://github.com/mehdidinari/Email_Filter).
 
 ### 🔗 Connect with Me
